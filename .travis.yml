@@ -1,0 +1,3 @@
+dist: jammy
+language: generic 
+script: echo "jammy time!" 
